@@ -1,4 +1,4 @@
-# Time Animation Report
+# Real Estate Data Report
 
 This is a breakdown of the data gathered from the GSS survey on Real Estate as well as the correlation between Hours Worked and Income in the year of 1989.
 
