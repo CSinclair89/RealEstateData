@@ -7,7 +7,7 @@ Full report can be found at the following link: http://chrisso.tv/pdf/GSS_Survey
 ## Goals
 
 - Use Python to clean data fields into proper data types for aggregation and visualization.
-- Ran correlation coefficients, as well as R-squared, to assess how strongly various data points are correlated.
+- Run correlation coefficients, as well as R-squared, to assess how strongly various data points are correlated.
 - Run a linear regression to forecast future trends, based on current data.
 
 ## Outcomes  
